@@ -33,7 +33,7 @@ namespace Agenda_Nova
             verificaVazio();
 
             if (btnInserir.Text == "INSERIR" && continua == "yes")// mudou o texto do  botão. Caso "inserir", insere novo contato.
-                                                                  // caso "novo", o MESMO botão faz outra coisa.
+                                                                  // caso "novo", o MESMO botão faz outra coisa
             {
 
                 try
